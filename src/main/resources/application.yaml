@@ -1,0 +1,5 @@
+censure:
+  url: https://api.sightengine.com
+  credentials:
+    login-key: ${SIGHTEN_LOGIN}
+    secret-key: ${SIGHTEN_SECRET_KEY}
